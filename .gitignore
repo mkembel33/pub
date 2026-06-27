@@ -1,5 +1,7 @@
 *
 !bootstrap.sh
 !installmysoftware.sh.age
+!bootstrap.ps1
+!installmysoftware.ps1.age
 !.gitignore
 !README.md
